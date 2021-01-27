@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP01_JEROME_WEDTER</string>
+    <string name="button">Button</string>
+    <string name="button2">Button2</string>
+    <string name="toast">TOAST</string>
+    <string name="increment">INCREMENT</string>
+</resources>
